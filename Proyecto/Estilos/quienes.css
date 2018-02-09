@@ -1,0 +1,40 @@
+
+
+.TITULO {
+	padding: 10px;
+	margin: 10px;
+	background-color: black;
+}
+
+.Titulo {
+	padding: 10px;
+	background-color: white;
+}
+
+BODY {
+	background-color: #99F3F7;
+}
+
+
+.FOTOS {
+	background-color: transparent;
+    border: 1px solid black;
+    margin: auto;
+    text-align: center;
+    width: 1024px;
+	height: 800px;
+}
+
+
+.Nosotros {
+	width: 150px;
+	height: 700px;
+	text-align: center;
+	font: bold 20px "arial";
+	border: 5px solid black;
+	padding: 10px;
+	margin: 20px 10px 10px 10px;
+	background-color: white;
+	float: left;
+}
+

@@ -28,6 +28,7 @@
 	margin: 50px;
 }
 .image {
+	font: bold 12px "verdana";
 	border: 5px solid white;
 	font-family: arial;
 	padding: 10px;
@@ -47,3 +48,7 @@
 	float: left;
 }
 	
+	
+BODY {
+	background-color: #99F3F7;
+}
