@@ -47,8 +47,18 @@
 	list-style: none;
 	float: left;
 }
+
+.CONTENEDOR {
+	background-color: transparent;
+    border: 5px solid black;
+    margin: auto;
+    text-align: center;
+    width: 1100px;
+	height: 800px;
+	background-color: #C3CDD8;
+}
 	
 	
 BODY {
-	background-color: #99F3F7;
+	background-color: #7B8C8C;
 }
